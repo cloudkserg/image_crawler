@@ -3,7 +3,11 @@
     "symfony/dom-crawler": "^3.3",
     "symfony/console": "^3.3",
     "nesbot/carbon": "^1.22",
-    "guzzlehttp/guzzle": "^6.3"
+    "guzzlehttp/guzzle": "^6.3",
+    "gabordemooij/redbean": "^4.3",
+    "vlucas/phpdotenv": "^2.4",
+    "symfony/css-selector": "^3.3",
+    "tightenco/collect": "^5.4"
   },
   "autoload": {
     "psr-4": {"src\\": "src/"}
